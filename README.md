@@ -10,38 +10,36 @@
 ## Algorithm
 
 ### Step1:
-<br>
+
 Import necessary packages
 
 
 
 ### Step2:
-<br>
+
 
 Read the image
 
 
-
 ### Step3:
-<br>
 
 If the read image is a color image, convert it into a grayscale image
 
 
 
 ### Step4:
-<br>
 
 Perform the threshold operation you want to do(global thresholding or adaptive thresholding or otsu's thresholding)
 
 
 
 ### Step5:
-<br>
 
 Display the Results
 
+## Developed By : Sri Varshan P
 
+## Reg.No. 212222240104
 
 ## Program
 
